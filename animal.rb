@@ -44,8 +44,8 @@ spider = Animal.new(8)
 spider.run
 spider.eat
 spider.o2
-puts "- " * 10
 
+puts "- " * 10
 jasen = Human.new(2, "Jasen")
 jasen.run
 jasen.eat
