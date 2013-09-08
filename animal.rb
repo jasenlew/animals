@@ -60,13 +60,4 @@ puts "#{jasen.name} has #{jasen.eyes} eyes."
 puts "- " * 10
 jasen.o2	
 jasen.o2("NO MORE OXYGEN...")
-spider.o2												# How / can a Class variable be changed in an object (instance) of the Class?
-
-# monkey = Animal.new(1)
-# monkey.name = "Mickey"
-
-# some_name = "my new name"
-# f = Animal.new(2)
-# f.name = some_name
-# puts f.name
-# puts "- " * 10; puts ""
+spider.o2													# How / can a Class variable be changed in an object (instance) of the Class?
